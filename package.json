@@ -1,0 +1,11 @@
+{
+  "name": "mongoose_course_basic",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/SophiePham2292/mongoose_course_basic.git",
+  "author": "Sophie Pham <choe.2292@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "mongoose": "^5.4.22"
+  }
+}
